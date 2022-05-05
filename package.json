@@ -14,7 +14,7 @@
     "react-scripts": "5.0.1",
     "uuid": "^8.3.2",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/batman1023/react-feedback-app2"
+    "homepage": "https://github.com/batman1023/react2.git"
   },
   "scripts": {
     "start": "react-scripts start",
