@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/batman1023/malireact/static/css/main.fa72ae7b.css",
+    "main.js": "/batman1023/malireact/static/js/main.7f4952e2.js",
+    "index.html": "/batman1023/malireact/index.html",
+    "main.fa72ae7b.css.map": "/batman1023/malireact/static/css/main.fa72ae7b.css.map",
+    "main.7f4952e2.js.map": "/batman1023/malireact/static/js/main.7f4952e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa72ae7b.css",
+    "static/js/main.7f4952e2.js"
+  ]
+}
