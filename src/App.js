@@ -17,7 +17,7 @@ function App() {
           <Routes>
             <Route
               exact
-              path="/react2"
+              path="/malireact"
               element={
                 <>
                   <FeedbackForm />
@@ -27,7 +27,7 @@ function App() {
               }
             ></Route>
 
-            <Route path="/react2" element={<AboutPage />} />
+            <Route path="/react" element={<AboutPage />} />
           </Routes>
           <AboutIconLink />
         </div>
