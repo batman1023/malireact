@@ -27,7 +27,7 @@ function App() {
               }
             ></Route>
 
-            <Route path="/about" element={<AboutPage />} />
+            <Route path="/react2" element={<AboutPage />} />
           </Routes>
           <AboutIconLink />
         </div>
